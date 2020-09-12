@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.idea/
+*.pyc
+.vscode/
+*.h5
+*.csv
+logs/
+logs2/
