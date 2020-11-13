@@ -6,3 +6,4 @@
 *.csv
 logs/
 logs2/
+data/*.csv
