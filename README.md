@@ -21,4 +21,3 @@ El único cambio realizado con respecto al modelo anterior está en la función 
 ### NOTAS:
 
 * Los modelos han sido desarrollados y entrenados utilizando [Tensorflow](https://www.tensorflow.org/)
-* Para más información, preguntas, etc. pueden contactarme por [Telegram](https://t.me/luis_ciber)
