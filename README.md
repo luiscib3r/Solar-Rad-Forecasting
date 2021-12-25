@@ -1,6 +1,4 @@
 
-# English Version
-
 # Solar Radiation Prediction with Neural Networks
 
 In these notebooks the entire research and implementation process carried out for the construction of various machine learning models based on neural networks that are capable of predicting levels of solar radiation is captured given a set of historical data taken by meteorological stations.
